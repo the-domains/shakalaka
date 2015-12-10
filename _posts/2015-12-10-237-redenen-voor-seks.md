@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-10T19:02:02.507Z'
-dateModified: '2015-12-10T19:01:21.649Z'
+datePublished: '2015-12-10T19:13:17.735Z'
+dateModified: '2015-12-10T19:12:54.991Z'
 title: 237 Redenen voor Seks
 author: []
 authors: []
@@ -39,7 +39,7 @@ _type: Article
   
 180 - Ik was het zat maagd te zijn
   
-209 - Ik zocht een thuis 
+209 - Ik zocht een thuis ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a8c63fa5-f93e-4b9a-9256-393c6a725083.jpg)
 
 Axel en Hans geven zich bloot in de Vlaamse versie van de gelijknamige Nederlandse theaterhit. Ze verwennen u met een feelgoodvoorstelling over het leven zelf voor mannen, vrouwen, echtparen en singles van alle leeftijden. Tussenin draaien de heren plaatjes uit hun eigen collectie en herbeleven ze op overbekende muziek hun eerste liefdes. 
 
